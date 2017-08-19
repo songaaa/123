@@ -4,9 +4,12 @@ import org.eclipse.jdt.internal.compiler.batch.Main;
 
 public class People {
 
+	
+	
 	int age;
 	String name;
 	double sex;
+	int dhone;
 	public People(int age, String name, double sex) {
 		super();
 		this.age = age;
