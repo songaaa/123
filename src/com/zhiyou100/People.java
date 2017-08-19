@@ -9,7 +9,7 @@ public class People {
 	int age;
 	String name;
 	double sex;
-	int dhone;
+	int phone;
 	public People(int age, String name, double sex) {
 		super();
 		this.age = age;
